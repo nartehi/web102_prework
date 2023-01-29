@@ -23,22 +23,24 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/nartehi/web102_prework/blob/main/Pre-work%20gif.gif 
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Title: Video Walkthrough.
+
+GIF created with LiceCap 
+
+[LiceCap] (https://cockos.com/licecap/) for Windows
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+This was a bit of a challenge because it was very difficult understanding concepts such as desconstruction and spread. However, I enjoyed working through the challenges. The instructions were pretty much clear for most of the challenges.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 by Isaac Narteh
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
